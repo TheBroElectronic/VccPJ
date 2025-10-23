@@ -13,9 +13,7 @@
         "text":"Visita mi tienda de electronica!"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+    "githubRepos":[],
     "packages":[
         {
             "name":"org.PJP.assets",
