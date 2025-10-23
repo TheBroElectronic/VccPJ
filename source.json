@@ -1,10 +1,10 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"PJPrefabs",
+    "id":"com.PJvcc.package-listing",
+    "url":"https://PJPrefabs.github.io/index.json",
     "author":{
         "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "name":"PichuJef",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
@@ -18,7 +18,14 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.PJPrefabs.udonsharp",
+            "releases":[
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+            ]
+        },
+        {
+            "name":"com.PJPrefabs.banana",
             "releases":[
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
