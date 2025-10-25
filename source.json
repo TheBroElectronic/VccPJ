@@ -20,6 +20,11 @@
             "releases":[
                 "https://github.com/TheBroElectronic/PJPGeneralBase/releases/download/1.0.0/com.pjp.prefabs.zip"
             ]
+        },{
+            "name":"org.PJP.Vsis",
+            "releases":[
+                "https://github.com/TheBroElectronic/PJPGeneralBase/releases/download/1.0.1/com.pjp.vsis.zip"
+            ]
         }
     ]
 }
